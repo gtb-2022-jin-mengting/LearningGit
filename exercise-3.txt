@@ -3,3 +3,12 @@ i am drinking coconut
 quelq'un viendra ici pour recycler mes livres et mes vetements.
 
 I returned to the last version and added a new line, what will happen?
+What is git head?
+what will happen if i modify the file after adding but not commiting?
+
+stuuuuuuuuuuuuuuupid!
+1
+2
+3
+4
+5
